@@ -128,3 +128,8 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+
+
+# PORT=8001
+# DB_URI=mongodb+srv://akshaychavhan676:akshaychavhan676@cluster0.6uybz7n.mongodb.net

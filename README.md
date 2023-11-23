@@ -1,0 +1,14 @@
+# play
+
+
+
+PORT=8001
+DB_URI=mongodb+srv://akshaychavhan676:akshaychavhan676@cluster0.6uybz7n.mongodb.net
+CORS_ORIGIN=*
+ACCESS_TOKEN_SECRET=accesstoken_akshaychavhan676
+ACCESS_TOKEN_EXPIRY=1d
+REFRESH_TOKEN_SECRET=refreshtoken_akshaychavhan676
+REFRESH_TOKEN_EXPIRY=10d
+CLOUDINARY_CLOUD_NAME=PlayCloud
+CLOUDINARY_API_KEY=748455938776345
+CLOUDNARY_SECRET_KEY=cloudinary_akshaychavhan676

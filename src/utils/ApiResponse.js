@@ -4,6 +4,7 @@ class ApiResponse extends Error {
         data ,
         message = "Success"
     ) {
+        super()
         this.statusCode = statusCode
         this.data = data
         this.message = message
